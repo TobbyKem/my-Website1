@@ -1,0 +1,55 @@
+/*html tags*/
+
+body {
+    text-align: center;
+    margin-top :0;
+    margin-left:0;
+    margin-bottom:0;
+    margin-right:0;
+}
+
+/* classes */
+
+.my-img{
+
+    width: 150px;
+    height: 150px;
+    border-radius:50%;
+
+}
+#top-h1{  
+margin-top:0;
+font-family: "Montserrat", 'Times New Roman';
+color: #250bef;
+}
+
+h3{
+    font-family:"Montserrat", 'Times New Roman', Times, serif;
+}
+
+h2{
+font-family: "Montserrat", 'Times New Roman', Times, serif;
+}
+
+.top-container{
+
+    background-color: #e9ecdf;
+    padding-top: 10px;
+    margin-bottom: 0px;
+    padding-bottom: 2px;
+   
+}
+
+.middle-container{
+    background-color: #c2caac;
+    margin-top:0;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+
+.bottom-container{
+    background-color: #b0a1c83a;
+    padding-top: 5px;
+
+
+}
